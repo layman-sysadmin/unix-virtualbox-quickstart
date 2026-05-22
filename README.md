@@ -1,5 +1,5 @@
 # UNIX VirtualBox-Quickstart
-UNIX VirtualBox Kits to quickly deploy a small virtual machine
+UNIX VirtualBox Kits to quickly deploy a small x86_64 virtual machine
 ## Deploy a premade virtual machine
 
 ### Machines available
