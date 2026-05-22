@@ -4,7 +4,7 @@ UNIX VirtualBox Kits to quickly deploy a small x86_64 virtual machine.
 
 1. Arch
 2. Artix OpenRC (coming soon)
-3. Debian (coming soon)
+3. Debian
 4. Devuan OpenRC (coming soon)
 5. Fedora (coming soon)
 6. Rocky (coming soon)
