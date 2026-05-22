@@ -4,7 +4,7 @@ UNIX VirtualBox Kits to quickly deploy a small virtual machine
 
 ### Machines available
 
-1. Arch (coming soon)
+1. Arch
 2. Artix OpenRC (coming soon)
 3. Debian (coming soon)
 4. Devuan OpenRC (coming soon)
