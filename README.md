@@ -11,7 +11,7 @@ UNIX VirtualBox Kits to quickly deploy a small x86_64 virtual machine.
 7. Alpine (coming soon)
 8. Void (coming soon)
 9. Chimera (coming soon)
-10. OpenBSD (coming soon)
+10. OpenBSD
 11. FreeBSD (coming soon)
 12. NetBSD (coming soon)
 
