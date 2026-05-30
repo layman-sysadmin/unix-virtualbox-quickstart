@@ -1,4 +1,4 @@
-# UNIX VirtualBox-Quickstart
+# UNIX VirtualBox-Kit
 UNIX VirtualBox Kits to quickly deploy a small x86_64 virtual machine.
 ### Machines available
 
